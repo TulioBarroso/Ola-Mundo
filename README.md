@@ -1,2 +1,3 @@
-# Ola Mundo
- Meu primeiro repositorio / Testando o git e github
+# Olá, Mundo!
+ -Meu primeiro repositorio 
+ -testando o git/github e aprendendo a usar
