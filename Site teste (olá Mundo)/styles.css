@@ -1,7 +1,8 @@
 h1 {
   
-        font-family:'Courier New', Courier, monospace
-        margin: 0;
+        font-family:'Courier New', Courier, monospace;
+        
+        margin-top: -280px;
         padding: 0;
         display: flex;
         justify-content: center; /* Centraliza conteúdo horizontalmente */
@@ -15,6 +16,11 @@ padding: 0;
 display: flex;
 justify-content: center;
 
+}
+
+p1 {
+display: flex;
+justify-content: center;
 
 }
 
